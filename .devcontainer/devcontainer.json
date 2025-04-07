@@ -1,0 +1,13 @@
+{
+	"name": "Universal",
+	"image": "mcr.microsoft.com/devcontainers/universal:2",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"vscjava.vscode-gradle",
+				"fwcd.kotlin",
+        		"vscjava.vscode-java-pack"
+			]
+		}
+	}
+}
