@@ -6,7 +6,8 @@
 			"extensions": [
 				"vscjava.vscode-gradle",
 				"fwcd.kotlin",
-        		"vscjava.vscode-java-pack"
+				"vscjava.vscode-java-pack",
+				"ms-vsliveshare.vsliveshare"
 			]
 		}
 	}
